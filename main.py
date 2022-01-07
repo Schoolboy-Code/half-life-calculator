@@ -3,21 +3,7 @@ import time
 print("this is the half life calculator, enter '?' if you don't know what a field is.")
 
 """
-This is the half life calculator.
-5 fields
-
-- half life time (h)
-- original mass (M0)
-- ending mass (M) 
-- time passed (t)
-- number of half lives (n)
-
-Equations:
-  m_o = m * 2^n
-  n = t/h
-
-Your answer, along with all of the other data, will be printed out for display.
-
+** HIGHLY RECOMMENDED TO DO THE PROBLEM, THEN TO USE THIS TO CHECK YOUR WORK, so you DON'T FAIL YOUR TEST LMAO ** 
 """
 
 def calc_exponent(m_o, m):
