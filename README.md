@@ -2,6 +2,8 @@ This is the half life calculator.
 
 ** HIGHLY RECOMMENDED TO DO THE PROBLEM, THEN TO USE THIS TO CHECK YOUR WORK ** 
 
+Run it on replit: https://replit.com/@blitcssh/half-life-calculator#main.py
+
 Problems will always provide at least three out of the following four variables
 
 - half life time (h)
