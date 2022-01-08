@@ -1,10 +1,13 @@
 This is the half life calculator.
 
+
 ** HIGHLY RECOMMENDED TO DO THE PROBLEM, THEN TO USE THIS TO CHECK YOUR WORK ** 
+** NOTE: THIS CALCULATOR WILL NOT WORK ON PROBLEMS WHERE N IS GIVEN, SIMPLY BECAUSE THERE ARE TOO MANY CASES TO CONSIDER. THIS MAY CHANGE IN A LATER UPDATE. **
+
 
 Run it on replit: https://replit.com/@blitcssh/half-life-calculator#main.py
 
-Problems will always provide at least three out of the following four variables
+This calculator works on problems which provide at least three out of the following four variables
 
 - half life time (h)
 - original mass (M0)
@@ -23,7 +26,8 @@ Your answer, along with all of the other data, will be printed out for display.
 
 
 Version v1.0.0
-- Implemented a (presumably) working prototype
+- Implemented a working prototype
+- Does not currently work in programs where n is provided.
 
 credit: Ben and Ritz
 
